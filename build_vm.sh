@@ -33,8 +33,8 @@ access() {
     VBoxManage modifyvm "$VMNAME" --vrdemulticon on --vrdeport 10001
 }
 
-vm_creation
-assignments
-creation_and_mounting
-access
+vm_creation()
+assignments()
+creation_and_mounting()
+access()
 echo "$VMNAME created"

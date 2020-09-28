@@ -1,4 +1,4 @@
-## Simple automation for creating new VM's using VirtualBox
+### Simple automation for creating new VM's using VirtualBox
 
 To use shell script for automated creating VM's on VirtualBox run it using bash with desired VM's name as first argument.
 
